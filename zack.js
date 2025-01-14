@@ -11,7 +11,7 @@
     const green = "\x1b[1;32m"; 
     const yellow = "\x1b[1;33m"; 
 
-    const logo = `${green}
+    const logo = `${Yellow}
  __    __ _           _                         
 / /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  
 \\ \\/  \\/ / '_ \\ / _\` | __/ __|/ _\` | '_ \\| '_ \\ 
